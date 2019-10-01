@@ -1,3 +1,213 @@
 {
-  "cities": [{ "id": 1, "name": "Владивосток" }]
+  "cities": [{ "id": 1, "name": "Владивосток" }],
+  "products": [
+    {
+      "id": 1,
+      "name": "Forza10 Puppy Junior Diet Pesce сухой корм для щенков и беременных сук. а так же в период лактации Рыба 1,5кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43348/b06d54f599fb4db9c8652bbf8c48ab74.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 2,
+      "name": "Forza10 Puppy Junior S/M Pesce сухой корм для щенков мелких и средних пород Рыба 2кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43338/2ab7c86ec64b8aed029fe80765e3b7f4.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 3,
+      "name": "Forza10 Legend Maintenance Evolution Skin сухой беззерновой корм для взрослых собак всех пород с чувствительной кожей 0,907кг",
+      "image": "https://doghouse.ru/images/uploads/products/46915/3a90b5832117c8a0e89de6517ba61884.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 3,
+      "name": "Forza10 Mini Adult Maint Pesce сухой корм для взрослых собак мелких пород Океаническая Рыба 4кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/46313/9e3585ae3d777feef7e0c698c8c57d0d.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 1073,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 4,
+      "name": "Forza10 Puppy Junior Diet Pesce сухой корм для щенков и беременных сук. а так же в период лактации Рыба 1,5кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43348/b06d54f599fb4db9c8652bbf8c48ab74.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 5,
+      "name": "Forza10 Puppy Junior S/M Pesce сухой корм для щенков мелких и средних пород Рыба 2кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43338/2ab7c86ec64b8aed029fe80765e3b7f4.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 6,
+      "name": "Forza10 Legend Maintenance Evolution Skin сухой беззерновой корм для взрослых собак всех пород с чувствительной кожей 0,907кг",
+      "image": "https://doghouse.ru/images/uploads/products/46915/3a90b5832117c8a0e89de6517ba61884.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 7,
+      "name": "Forza10 Mini Adult Maint Pesce сухой корм для взрослых собак мелких пород Океаническая Рыба 4кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/46313/9e3585ae3d777feef7e0c698c8c57d0d.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 1073,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 8,
+      "name": "Forza10 Mini Adult Maint Pesce сухой корм для взрослых собак мелких пород Океаническая Рыба 4кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/46313/9e3585ae3d777feef7e0c698c8c57d0d.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 1073,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 9,
+      "name": "Forza10 Puppy Junior Diet Pesce сухой корм для щенков и беременных сук. а так же в период лактации Рыба 1,5кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43348/b06d54f599fb4db9c8652bbf8c48ab74.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 10,
+      "name": "Forza10 Puppy Junior S/M Pesce сухой корм для щенков мелких и средних пород Рыба 2кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/43338/2ab7c86ec64b8aed029fe80765e3b7f4.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 11,
+      "name": "Forza10 Legend Maintenance Evolution Skin сухой беззерновой корм для взрослых собак всех пород с чувствительной кожей 0,907кг",
+      "image": "https://doghouse.ru/images/uploads/products/46915/3a90b5832117c8a0e89de6517ba61884.jpg",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 629,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    },
+    {
+      "id": 12,
+      "name": "Forza10 Mini Adult Maint Pesce сухой корм для взрослых собак мелких пород Океаническая Рыба 4кг",
+      "image": "https://doghouse.ru/imagecache/catalog-item-full/products/46313/9e3585ae3d777feef7e0c698c8c57d0d.png",
+      "brand": {
+        "id": 1,
+        "name": "Forza"
+      },
+      "price": 1073,
+      "category": {
+        "id": 1,
+        "name": "Сухие",
+        "parent_id": 2
+      },
+      "stocks": [{ "shop_id": 1, "quantity": 15 }]
+    }
+  ]
 }
