@@ -82,6 +82,26 @@
       }
     ]
   },
+  "product/3": {
+    "id": 3,
+    "name": "Forza10 Mini Adult Maint Pesce сухой корм для взрослых собак мелких пород Океаническая Рыба 4кг",
+    "image": "https://doghouse.ru/imagecache/catalog-item-full/products/46313/9e3585ae3d777feef7e0c698c8c57d0d.png",
+    "brand": {
+      "id": 1,
+      "name": "Forza"
+    },
+    "price": 1073,
+    "category": {
+      "id": 1,
+      "name": "Сухие",
+      "parent_id": 2
+    },
+    "stocks": [
+      { "shop_id": 1, "quantity": 15 },
+      { "shop_id": 2, "quantity": 1 },
+      { "shop_id": 3, "quantity": 12 }
+    ]
+  },
   "categories": [
     {
       "id": 419,
