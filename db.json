@@ -19,7 +19,7 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": []
       },
       {
         "id": 2,
@@ -35,7 +35,11 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": [
+          { "shop_id": 1, "quantity": 15 },
+          { "shop_id": 2, "quantity": 1 },
+          { "shop_id": 3, "quantity": 12 }
+        ]
       },
       {
         "id": 3,
@@ -51,7 +55,11 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": [
+          { "shop_id": 1, "quantity": 15 },
+          { "shop_id": 2, "quantity": 1 },
+          { "shop_id": 3, "quantity": 12 }
+        ]
       },
       {
         "id": 3,
@@ -67,7 +75,11 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": [
+          { "shop_id": 1, "quantity": 15 },
+          { "shop_id": 2, "quantity": 1 },
+          { "shop_id": 3, "quantity": 12 }
+        ]
       },
       {
         "id": 4,
@@ -83,7 +95,11 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": [
+          { "shop_id": 1, "quantity": 15 },
+          { "shop_id": 2, "quantity": 1 },
+          { "shop_id": 3, "quantity": 12 }
+        ]
       },
       {
         "id": 5,
@@ -99,7 +115,7 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": []
       },
       {
         "id": 6,
@@ -147,7 +163,7 @@
           "name": "Сухие",
           "parent_id": 2
         },
-        "stocks": [{ "shop_id": 1, "quantity": 15 }]
+        "stocks": []
       },
       {
         "id": 9,
