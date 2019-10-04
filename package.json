@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch dghs.js --port 4000"
+    "start": "json-server --watch dghs.js --port 1488 --routes routes.json"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,7 @@
   "devDependencies": {
     "casual-browserify": "1.5.19-2",
     "faker": "4.1.0",
+    "fs": "0.0.1-security",
     "json-server": "0.15.1"
   }
 }
