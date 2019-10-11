@@ -14,10 +14,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": []
       },
@@ -50,10 +50,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
@@ -70,10 +70,10 @@
           "name": "Forza"
         },
         "price": 1073,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
@@ -90,10 +90,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
@@ -110,10 +110,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": []
       },
@@ -126,10 +126,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [{ "shop_id": 1, "quantity": 15 }]
       },
@@ -158,10 +158,10 @@
           "name": "Forza"
         },
         "price": 1073,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": []
       },
@@ -174,10 +174,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [{ "shop_id": 1, "quantity": 15 }]
       },
@@ -190,10 +190,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [{ "shop_id": 1, "quantity": 15 }]
       },
@@ -206,10 +206,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [{ "shop_id": 1, "quantity": 15 }]
       },
@@ -222,10 +222,10 @@
           "name": "Forza"
         },
         "price": 1073,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [{ "shop_id": 1, "quantity": 15 }]
       },
@@ -254,10 +254,10 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
         },
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
@@ -274,11 +274,11 @@
           "name": "Forza"
         },
         "price": 629,
-        "category": {
-          "id": 1,
-          "name": "Сухие",
-          "parent_id": 2
-        },
+        "category":     {
+          "id": 53,
+          "name": "Влажные",
+          "parent_id": 420
+        },,
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
           { "shop_id": 2, "quantity": 1 },
