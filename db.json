@@ -278,7 +278,7 @@
           "id": 53,
           "name": "Влажные",
           "parent_id": 420
-        },,
+        },
         "stocks": [
           { "shop_id": 1, "quantity": 15 },
           { "shop_id": 2, "quantity": 1 },
